@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BirdWatcherTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-12-12T18:42:04" hostname="IEBCDVENPA002" time="0.23">
+  <properties/>
+  <testcase name="itShouldNotHaveBusyDays" classname="BirdWatcherTest" time="0.197"/>
+  <testcase name="itShouldReturnZeroIfBirdWatcherLastWeekIsEmpty" classname="BirdWatcherTest" time="0.0"/>
+  <testcase name="itShouldNotHaveDaysWithoutBirds" classname="BirdWatcherTest" time="0.003"/>
+  <testcase name="itTestGetLastWeek" classname="BirdWatcherTest" time="0.021"/>
+  <testcase name="itHasDayWithoutBirds" classname="BirdWatcherTest" time="0.001"/>
+  <testcase name="itTestGetCountForBusyDays" classname="BirdWatcherTest" time="0.0"/>
+  <testcase name="itTestGetCountForFirstDays" classname="BirdWatcherTest" time="0.002"/>
+  <testcase name="itTestGetToday" classname="BirdWatcherTest" time="0.0"/>
+  <testcase name="itIncrementTodaysCount" classname="BirdWatcherTest" time="0.0"/>
+  <testcase name="itTestGetCountForMoreDaysThanTheArraySize" classname="BirdWatcherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
